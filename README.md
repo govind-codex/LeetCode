@@ -194,3 +194,15 @@ LeetCode/
 **⭐ If you find this repository useful, feel free to star it!**
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/govind-codex/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/govind-codex/LeetCode/tree/master/0050-powx-n) |
+<!---LeetCode Topics End-->
