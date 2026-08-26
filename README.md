@@ -210,6 +210,7 @@ LeetCode/
 | ------- |
 | [0011-container-with-most-water](https://github.com/govind-codex/LeetCode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/govind-codex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/govind-codex/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -222,4 +223,8 @@ LeetCode/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/govind-codex/LeetCode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/govind-codex/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
