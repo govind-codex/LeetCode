@@ -201,6 +201,7 @@ LeetCode/
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/govind-codex/LeetCode/tree/master/0050-powx-n) |
+| [2965-find-missing-and-repeated-values](https://github.com/govind-codex/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -215,6 +216,7 @@ LeetCode/
 | [0238-product-of-array-except-self](https://github.com/govind-codex/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/govind-codex/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/govind-codex/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/govind-codex/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,4 +247,9 @@ LeetCode/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/govind-codex/LeetCode/tree/master/0001-two-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/govind-codex/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/govind-codex/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
