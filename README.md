@@ -208,6 +208,7 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/govind-codex/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/govind-codex/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/govind-codex/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/govind-codex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -240,4 +241,8 @@ LeetCode/
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/govind-codex/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/govind-codex/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
