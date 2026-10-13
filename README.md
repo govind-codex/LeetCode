@@ -214,6 +214,7 @@ LeetCode/
 | [0033-search-in-rotated-sorted-array](https://github.com/govind-codex/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/govind-codex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/govind-codex/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/govind-codex/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/govind-codex/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/govind-codex/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/govind-codex/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -225,6 +226,7 @@ LeetCode/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/govind-codex/LeetCode/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/govind-codex/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -237,6 +239,7 @@ LeetCode/
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/govind-codex/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/govind-codex/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/govind-codex/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/govind-codex/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
@@ -252,4 +255,16 @@ LeetCode/
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/govind-codex/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/govind-codex/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/govind-codex/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/govind-codex/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
