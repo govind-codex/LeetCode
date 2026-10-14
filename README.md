@@ -212,6 +212,7 @@ LeetCode/
 | [0001-two-sum](https://github.com/govind-codex/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/govind-codex/LeetCode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/govind-codex/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/govind-codex/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/govind-codex/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/govind-codex/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/govind-codex/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -226,6 +227,7 @@ LeetCode/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/govind-codex/LeetCode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/govind-codex/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/govind-codex/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -267,4 +269,8 @@ LeetCode/
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/govind-codex/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/govind-codex/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
